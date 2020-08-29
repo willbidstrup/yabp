@@ -12,7 +12,7 @@ I successfully checked my Python installation (v3.8.5) and set up a virtual envi
 
 To **activate** the Dev environment I see to run   
 
-$ source /Users/williambidstrup/Documents/GitHub/yabp/Dev/bin/activate  
+$ source /Users/williambidstrup/Documents/GitHub/yabp/Game/bin/activate  
 
 To **deactivate** I run  
 
