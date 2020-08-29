@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/williambidstrup/Documents/GitHub/yabp/Dev"
+VIRTUAL_ENV="/Users/williambidstrup/Documents/GitHub/yabp/game_dev"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
@@ -54,8 +54,8 @@ fi
 
 if [ -z "${VIRTUAL_ENV_DISABLE_PROMPT:-}" ] ; then
     _OLD_VIRTUAL_PS1="${PS1:-}"
-    if [ "x(Dev) " != x ] ; then
-	PS1="(Dev) ${PS1:-}"
+    if [ "x(game_dev) " != x ] ; then
+	PS1="(game_dev) ${PS1:-}"
     else
     if [ "`basename \"$VIRTUAL_ENV\"`" = "__" ] ; then
         # special case for Aspen magic directories

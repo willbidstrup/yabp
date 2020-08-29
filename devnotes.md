@@ -8,11 +8,13 @@ I am going to follow this tutotial - http://rogueliketutorials.com/tutorials/tco
 
 ## Part 0  
 
-I successfully checked my Python installation (v3.8.5) and set up a virtual environment in my local folder for development. I also put this folder in my .gitignore.  
+I successfully checked my Python installation (v3.8.5) and set up a virtual environment in my local folder for development.  
+
+python3 -m venv /path/to/new/virtual/environment  
 
 To **activate** the Dev environment I see to run   
 
-$ source /Users/williambidstrup/Documents/GitHub/yabp/Game/bin/activate  
+$ source /Users/williambidstrup/Documents/GitHub/yabp/game_dev/bin/activate  
 
 To **deactivate** I run  
 
