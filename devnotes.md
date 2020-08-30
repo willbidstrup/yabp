@@ -43,4 +43,8 @@ Lucidchart of the file structure is here - https://app.lucidchart.com/documents/
 
 ## Part 2
 
+This was a pretty heavy section. I did a lit of typing and while I followed it all a bit, I will want to go back over this a few times.  
 
+I now have seven scripts doing the work.  
+
+Feels like good progress though, seeing that character move around is starting to spark my imagination.  
