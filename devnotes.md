@@ -39,3 +39,8 @@ Lucidchart of the file structure is here - https://app.lucidchart.com/documents/
 
 
 
+# 2020-08-30
+
+## Part 2
+
+
