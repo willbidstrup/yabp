@@ -48,3 +48,14 @@ This was a pretty heavy section. I did a lit of typing and while I followed it a
 I now have seven scripts doing the work.  
 
 Feels like good progress though, seeing that character move around is starting to spark my imagination.  
+
+
+# 2020-08-31
+
+## Part 3
+
+Today I managed to create some rooms. 
+
+From tomorrow I am going to start developing using git branches.  
+
+
