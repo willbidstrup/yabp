@@ -59,3 +59,14 @@ Today I managed to create some rooms.
 From tomorrow I am going to start developing using git branches.  
 
 
+# 2020-09-01
+
+## Part 3
+
+Today I contine adding elements of the dungeon generator.  
+
+This is becoming my daily practice of touch typing and Python coding.  
+
+
+
+
