@@ -67,6 +67,14 @@ Today I contine adding elements of the dungeon generator.
 
 This is becoming my daily practice of touch typing and Python coding.  
 
+# 2020-09-02
+
+## Part 3
+
+I successfully created the dingeon creation algorithm. I am beginning to realise that learining hoe to make games is the superior way to learn programming. It seems to require many aspects of coding I have not considered before.  
+
+My mind is buzzing with things to do including setting up a  GitHub project and actually joining the Reddit group which created the awesome tutorial.  
+
 
 
 
