@@ -75,6 +75,12 @@ I successfully created the dingeon creation algorithm. I am beginning to realise
 
 My mind is buzzing with things to do including setting up a  GitHub project and actually joining the Reddit group which created the awesome tutorial.  
 
+# 2020-09-04
+
+## Part 4
+
+Today I defined the Field Of View. I was not able to get sound working.  
+
 
 
 
