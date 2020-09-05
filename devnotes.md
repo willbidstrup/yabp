@@ -77,4 +77,8 @@ My mind is buzzing with things to do including setting up a  GitHub project and 
 
 
 
+# 2020-09-05
 
+I managed to get sound playing by installing AppKit and pyobjc.  
+
+But, it won't play while the game is running so I need to do more research.  

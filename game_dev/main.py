@@ -5,6 +5,8 @@ from engine import Engine
 from entity import Entity
 from input_handlers import EventHandler
 from procgen import generate_dungeon
+from playsound import playsound
+from AppKit     import NSSound
 
 
 def main() -> None:
@@ -50,11 +52,15 @@ def main() -> None:
         root_console = tcod.Console(screen_width, screen_height, order="F")
         while True:
 
+
+
             engine.render(console=root_console, context=context)
 
             events = tcod.event.wait()
 
             engine.handle_events(events)
+
+            # playsound('beat.mp3') This crashes the program
 
 
 
