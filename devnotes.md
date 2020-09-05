@@ -82,5 +82,12 @@ My mind is buzzing with things to do including setting up a  GitHub project and 
 Today I defined the Field Of View. I was not able to get sound working.  
 
 
+# 2020-09-04
+
+Tried making sound work.  
+
+
+
+
 
 
