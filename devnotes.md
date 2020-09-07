@@ -95,3 +95,8 @@ Today I continue through the tutorial.
 
 
 
+# 2020-09-08
+
+## Part 5
+
+I completed Part 5. There are enemies and text being printed to the terminal. I am starting to see how I will be able to make modifications to create the You Are Black Phillip game. 
