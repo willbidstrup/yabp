@@ -87,7 +87,11 @@ Today I defined the Field Of View. I was not able to get sound working.
 Tried making sound work.  
 
 
+# 2020-09-07
 
+## Part 5 
+
+Today I continue through the tutorial.  
 
 
 
