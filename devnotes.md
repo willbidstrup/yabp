@@ -110,4 +110,6 @@ I create a branch for refactioring which I will merge to master.
 
 Event handlers will have the handle_events method instead of Engine.  
 
+The game map will have a reference to Engine, and entities will have a reference to the map.  
+
 
