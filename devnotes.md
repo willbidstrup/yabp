@@ -100,3 +100,14 @@ Today I continue through the tutorial.
 ## Part 5
 
 I completed Part 5. There are enemies and text being printed to the terminal. I am starting to see how I will be able to make modifications to create the You Are Black Phillip game. 
+
+
+# 2020-09-09
+
+## Refactoring
+
+I create a branch for refactioring which I will merge to master.  
+
+Event handlers will have the handle_events method instead of Engine.  
+
+
