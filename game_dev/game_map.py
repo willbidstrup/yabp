@@ -15,7 +15,7 @@ if TYPE_CHECKING:
 
 class GameMap:
     def __init__(
-    self, engine: Engine, width: int, height: int, entities: Iterable[Entity] = ()
+        self, engine: Engine, width: int, height: int, entities: Iterable[Entity] = ()
     ):
         self.engine = engine
         self.width, self.height = width, height
@@ -24,16 +24,16 @@ class GameMap:
 
         self.visible = np.full(
             (width, height), fill_value=False, order="F"
-            ) # Tiles the player can see now
+        )  # Tiles the player can currently see
         self.explored = np.full(
             (width, height), fill_value=False, order="F"
-            ) # Tiles the player has seen before
+        )  # Tiles the player has seen before
 
 
     def get_blocking_entity_at_location(
         self, location_x: int, location_y: int, # TODO check this comma
     ) -> Optional[Entity]:
-        for entity  in self.entities:
+        for entity in self.entities:
             if (
                 entity.blocks_movement
                 and entity.x == location_x

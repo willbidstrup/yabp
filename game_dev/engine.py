@@ -1,5 +1,6 @@
 # The Engine class will handle drawing the map and entities as well as player input_handlers
 from __future__ import annotations
+
 from typing import TYPE_CHECKING
 
 from tcod.context import Context
@@ -7,12 +8,11 @@ from tcod.console import Console
 from tcod.map import compute_fov
 
 
-from entity import Entity
-from game_map import GameMap
+
 from input_handlers import EventHandler
 
 if TYPE_CHECKING:
-    from entity import entity
+    from entity import Entity
     from game_map import GameMap
 
 

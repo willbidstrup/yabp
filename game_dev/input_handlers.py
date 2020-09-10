@@ -38,7 +38,7 @@ class EventHandler(tcod.event.EventDispatch[Action]):
         player = self.engine.player
 
         if key == tcod.event.K_UP:
-            action = BumpAction(player, x=0, dy=-1)
+            action = BumpAction(player, dx=0, dy=-1)
         elif key == tcod.event.K_DOWN:
             action = BumpAction(player, dx=0, dy=1)
         elif key == tcod.event.K_LEFT:
