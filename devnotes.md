@@ -114,4 +114,8 @@ Actions will be initialized with the entity doing the action
 
 The game map will have a reference to Engine, and entities will have a reference to the map.  
 
+# 2020-09-11
+
+## Refactoring
+
 
